@@ -9,13 +9,9 @@ author_profile: true
 
 Talks
 -----
-1. IISE Annual Meeting, New Orleans, LA, 2023.
+1. IISE Annual Meeting, New Orleans, LA, 2023, *Robust Generalized Scalar-on-Tensor Regression.*
 
-    *Robust Generalized Scalar-on-Tensor Regression.*
-
-2. Quality Control and Reliability Engineering (QCRE) Best Student Paper Competition, IISE Annual Meeting, New Orleans, LA, 2023.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
+2. Quality Control and Reliability Engineering (QCRE) Best Student Paper Competition, IISE Annual Meeting, New Orleans, LA, 2023, *Federated Generalized Scalar-on-Tensor Regression.*
     
 3. INFORMS Annual Meeting, Indianapolis, IN, 2022.
 
