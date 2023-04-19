@@ -5,12 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Under Review
+======
+
+1. **Konyar, E.**, Gahrooei, M. R., (2022+) Federated Generalized Scalar-on-Tensor Regression. (2nd round revision at Journal of Quality Technology)
+- *Finalist of Best Student Paper Competition in Quality Control and Reliability Engineering (QCRE), IISE Annual Conference 2023*
+
+2. **Konyar, E.**, Gahrooei, M. R., Zhang, R., (2023+) Robust Generalized Scalar-on-Tensor Regression. (1st round revision at IISE Transactions)
+
+Working Papers
+======
+
+1. Nouri, M., **Konyar, E.**, Gahrooei, M. R., Ilbeigi, M., (2023+) Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model
+
+
