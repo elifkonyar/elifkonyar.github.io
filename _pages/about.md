@@ -18,7 +18,7 @@ Before starting my Ph.D., I have mainly worked on wind power prediction problem 
 News
 ------
 1. **April 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" became a Finalist in IISE QCRE Best Student Paper Competition. I will be presenting our work in IISE Annual Meeting in May, 2023, in New Orleans!
-2. **August 2023**: Passed the comprehensive exam! 
+2. **August 2022**: Passed the comprehensive exam! 
 3. **August 2021**: Moved to Florida, and started my Ph.D.!
 4. **June 2021**: Defended my Master's thesis at Bogazici University.
 5. **Jan 2021**: Ranked in top 10 among 247 participants in "Wind power forecasting for the day-ahead energy market” competition by Compagnie Nationale du Rhone (CNR) in Challenge Data. 
