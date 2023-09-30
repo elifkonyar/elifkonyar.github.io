@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. **Konyar, E.**, Gahrooei, M. R., (2023) Federated Generalized Scalar-on-Tensor Regression. *Journal of Quality Technology*, 1-18. [link](https://www.tandfonline.com/doi/abs/10.1080/00224065.2023.2246600)
+1. **Konyar, E.**, Gahrooei, M. R., (2023) Federated Generalized Scalar-on-Tensor Regression. *Journal of Quality Technology*, 1-18. [[link](https://www.tandfonline.com/doi/abs/10.1080/00224065.2023.2246600)]
 - *Finalist of Best Student Paper Competition in Quality Control and Reliability Engineering (QCRE), IISE Annual Conference 2023*
 - *Finalist of Best Paper Competition in INFORMS Conference on Quality, Statistics and Reliability, ICQSR 2023*
 
