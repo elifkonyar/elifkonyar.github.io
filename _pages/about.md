@@ -17,7 +17,7 @@ Prior to starting my Ph.D., I have worked on wind power prediction problem under
 
 News
 ------
-1. **May 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" has been nominated as a finalist in INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). I will be presenting our work in ICQSR in June, 2023, in Raleigh!
+1. **May 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" has been nominated as a finalist for the Best Paper Competition at the INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). I will be presenting our work in ICQSR in June, 2023, in Raleigh!
 2. **April 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" has been selected as a finalist in IISE QCRE Best Student Paper Competition. I will be presenting our work in IISE Annual Meeting in May, 2023, in New Orleans!
 3. **June 2021**: Defended my Master's thesis at Bogazici University.
 4. **Jan 2021**: Ranked in top 10 among 247 participants in "Wind power forecasting for the day-ahead energy market” competition by Compagnie Nationale du Rhone (CNR) in Challenge Data. 
