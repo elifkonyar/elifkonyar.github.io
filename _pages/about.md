@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student, supervised by [Dr. Mostafa Reisi Gahrooei](https://scholar.google.com/citations?user=GRoULwcAAAAJ&hl=en), in Industrial & Systems Engineering at University of Florida. In January 2025, I will be joining to ISyE at Georgia Institute of Technology as a Carmine and Jean Iannacone Postdoctoral Fellow.
+I am a 3rd year Ph.D. student, supervised by [Dr. Mostafa Reisi Gahrooei](https://scholar.google.com/citations?user=GRoULwcAAAAJ&hl=en), in Industrial & Systems Engineering at University of Florida. I will be joining to ISyE at Georgia Institute of Technology as a Carmine and Jean Iannacone Postdoctoral Fellow in January 2025.
 
 My primary research interests lie at the intersection of machine learning and statistics to model and monitor systems with high-dimensional and heterogeneous data. Particularly, I am interested in tensor-based modeling and federated learning approaches for high-dimensional and multimodal data settings with applications in healthcare and agriculture.
 
