@@ -13,7 +13,7 @@ author_profile: true
 
 2. **Konyar, E.**, Gahrooei, M. R., Zhang, R., (2023) Robust Generalized Scalar-on-Tensor Regression. *IISE Transactions*, 1-23. [[link](https://https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2290110)]
 
-3. Nouri, M., **Konyar, E.**, Gahrooei, M. R., Ilbeigi, M., (2024) Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model. *IEEE Intelligent Transportation Systems Transaction* (Accepted)
+3. Nouri, M., **Konyar, E.**, Gahrooei, M. R., Ilbeigi, M., (2024) Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model. *IEEE Intelligent Transportation Systems Transaction*, 1-14. [[link](https://ieeexplore.ieee.org/document/10534099)]
 
 Under Review
 ------
@@ -23,8 +23,9 @@ Working Papers
 
 4. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2024+) Federated Cooperative Learning for Distributed Multimodal Data Analysis. 
 
+5. **Konyar, E.**, Gahrooei, M. R., (2024+) Semi-supervised PARAFAC2 Decomposition for Medical Decision Making. 
+
 Book Chapters
 ------
 
-6. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Springer Optimization and Its Applications*
-
+6. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, 315-344. [[link](https://link.springer.com/chapter/10.1007/978-3-031-53092-0_15)]
