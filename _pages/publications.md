@@ -17,15 +17,14 @@ author_profile: true
 
 Under Review
 ------
-
-Working Papers
-------
-
-4. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2024+) Federated Cooperative Learning for Distributed Multimodal Data Analysis. 
+4. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2024+) Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. 
 
 5. **Konyar, E.**, Gahrooei, M. R., (2024+) Semi-supervised PARAFAC2 Decomposition for Medical Decision Making. 
 
+Working Papers
+------
+6. **Konyar, E.**, Gahrooei, M. R., (2024+) TBD.
+
 Book Chapters
 ------
-
 6. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, 315-344. [[link](https://link.springer.com/chapter/10.1007/978-3-031-53092-0_15)]
