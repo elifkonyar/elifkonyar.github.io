@@ -27,4 +27,4 @@ Working Papers
 
 Book Chapters
 ------
-6. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, 315-344. [[link](https://link.springer.com/chapter/10.1007/978-3-031-53092-0_15)]
+7. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, 315-344. [[link](https://link.springer.com/chapter/10.1007/978-3-031-53092-0_15)]
