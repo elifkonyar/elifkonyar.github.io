@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Elif Konyar"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student @UF"
-  location         : "Gainesville, FL"
+  bio              : "Postdoctoral Fellow @GaTech"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=O_hV0PIAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
