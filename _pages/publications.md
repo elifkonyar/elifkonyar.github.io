@@ -15,7 +15,7 @@ author_profile: true
 
 3. Nouri, M., **Konyar, E.**, Gahrooei, M. R., Ilbeigi, M., (2024) Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model. *IEEE Intelligent Transportation Systems Transaction*, 1-14. [[link](https://ieeexplore.ieee.org/document/10534099)]
 
-4. **Konyar, E.**, Gahrooei, M. R., (2025) Semi-supervised PARAFAC2 Decomposition for Computational Phenotyping Using Electronic Health Records. *IEEE Biomedical and Health Informatics*. [[link](10.1109/JBHI.2025.3530271]
+4. **Konyar, E.**, Gahrooei, M. R., (2025) Semi-supervised PARAFAC2 Decomposition for Computational Phenotyping Using Electronic Health Records. *IEEE Biomedical and Health Informatics*. [[link](https://doi.org/10.1109/JBHI.2025.3530271]
 
 Under Review
 ------
