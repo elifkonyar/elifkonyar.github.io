@@ -12,7 +12,7 @@ I am a Carmine and Jean Iannacone Postdoctoral Fellow under [Dr. Kamran Paynabar
 
 My primary research interests lie at the intersection of machine learning and statistics, with a focus on modeling and monitoring complex systems characterized by high-dimensional and heterogeneous data. Specifically, I am interested in developing tensor-based modeling techniques and federated learning frameworks tailored for high-dimensional and multimodal data. These approaches have various applications in healthcare, agriculture and energy systems. In addition, I am interested in adaptive sampling and reinforcement learning methods for multi-source sensor systems to extract actionable knowledge to facilitate robust and informed decision-making.
 
-I am always eager to explore collaborative opportunities that advance these areas of research and welcome interdisciplinary projects that can create impactful solutions. Please [[contact me](mailto:ekonyar3@gatech.edu)] if you are interested in collaborating!
+I am always eager to explore collaborative opportunities that advance these areas of research and welcome interdisciplinary projects that can create impactful solutions. Please [contact me](mailto:ekonyar3@gatech.edu) if you are interested in collaborating!
 
 Outside of work, I enjoy biking and hiking, and I am a big coffee enthusiast. 
 
