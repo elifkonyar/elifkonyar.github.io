@@ -18,10 +18,10 @@ author_profile: true
 
 4. **Konyar, E.**, Gahrooei, M. R., (2025) Semi-supervised PARAFAC2 Decomposition for Computational Phenotyping Using Electronic Health Records. *IEEE Biomedical and Health Informatics*. [[link](https://doi.org/10.1109/JBHI.2025.3530271)]
 
-5. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2025) Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. 
+5. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2025) Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. *IISE Transactions*. [[link](https://doi.org/10.1080/24725854.2025.2511666)]
 
-6. *Konyar, E.**, Paynabar, K., (2025) Discussion on The Statistical Finite Element Method: A
-Theoretical Foundation for Digital Twins. *Quality Engineering* (Accepted)
+6. **Konyar, E.**, Paynabar, K., (2025) Discussion on The Statistical Finite Element Method: A
+Theoretical Foundation for Digital Twins. *Quality Engineering* (Just accepted)
 
 
 Book Chapters
