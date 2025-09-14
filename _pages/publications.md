@@ -7,23 +7,33 @@ author_profile: true
 
 {% include base_path %}
 
-1. **Konyar, E.**, Gahrooei, M. R., (2023) Federated Generalized Scalar-on-Tensor Regression. *Journal of Quality Technology*, 1-18. [[link](https://www.tandfonline.com/doi/abs/10.1080/00224065.2023.2246600)]
-- *Finalist of Best Student Paper Competition in Quality Control and Reliability Engineering (QCRE), IISE Annual Conference 2023*
-- *Finalist of Best Paper Competition in INFORMS Conference on Quality, Statistics and Reliability, ICQSR 2023*
+## Refereed Journal Papers (accepted or published)
 
-2. **Konyar, E.**, Gahrooei, M. R., Zhang, R., (2023) Robust Generalized Scalar-on-Tensor Regression. *IISE Transactions*, 1-23. [[link](https://https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2290110)]
-- *Selected as a featured article in January (2025) issue of ISE Magazine.*
+1. **Konyar, E.**, Paynabar, K. (2025). Discussion on “The Statistical Finite Element Method: A Theoretical Foundation for Digital Twins”. *Quality Engineering*. *(Just accepted)*
 
-3. Nouri, M., **Konyar, E.**, Gahrooei, M. R., Ilbeigi, M., (2024) Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model. *IEEE Intelligent Transportation Systems Transaction*, 1-14. [[link](https://ieeexplore.ieee.org/document/10534099)]
+2. Amini, M., **Konyar, E.**, Reisi Gahrooei, M. (2025). Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. *IISE Transactions*. [https://doi.org/10.1080/24725854.2025.2511666](https://doi.org/10.1080/24725854.2025.2511666)
 
-4. **Konyar, E.**, Gahrooei, M. R., (2025) Semi-supervised PARAFAC2 Decomposition for Computational Phenotyping Using Electronic Health Records. *IEEE Biomedical and Health Informatics*. [[link](https://doi.org/10.1109/JBHI.2025.3530271)]
+3. **Konyar, E.**, Reisi Gahrooei, M. (2025). Semi-Supervised PARAFAC2 Decomposition for Computational Phenotyping Using Electronic Health Records. *IEEE Transactions on Biomedical and Health Informatics*. [https://doi.org/10.1109/JBHI.2025.3530271](https://doi.org/10.1109/JBHI.2025.3530271)
 
-5. Amini, M., **Konyar, E.**, Gahrooei, M. R., (2025) Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. *IISE Transactions*. [[link](https://doi.org/10.1080/24725854.2025.2511666)]
+4. Nouri, M., **Konyar, E.**, Reisi Gahrooei, M., Ilbeigi, M. (2024). Detecting Traffic Anomalies During Extreme Events via a Temporal Self-Expressive Model. *IEEE Transactions on Intelligent Transportation Systems*, 1–14. [https://doi.org/10.1109/TITS.2024.3397034](https://doi.org/10.1109/TITS.2024.3397034)
 
-6. **Konyar, E.**, Paynabar, K., (2025) Discussion on The Statistical Finite Element Method: A
-Theoretical Foundation for Digital Twins. *Quality Engineering* (Just accepted)
+5. **Konyar, E.**, Reisi Gahrooei, M., Zhang, R. (2023). Robust Generalized Scalar-on-Tensor Regression. *IISE Transactions*, 1–23. [https://doi.org/10.1080/24725854.2023.2290110](https://doi.org/10.1080/24725854.2023.2290110)  
+   *Selected as a featured article in the January 2025 issue of ISE Magazine.*
+
+6. **Konyar, E.**, Reisi Gahrooei, M. (2023). Federated Generalized Scalar-on-Tensor Regression. *Journal of Quality Technology*, 1–18. [https://doi.org/10.1080/00224065.2023.2246600](https://doi.org/10.1080/00224065.2023.2246600)  
+   *Finalist — Best Student Paper (QCRE), IISE Annual Conference 2023*  
+   *Finalist — Best Paper, INFORMS ICQSR 2023*
+
+## Book Chapters
+
+7. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. In *Multimodal and Tensor Data Analytics for Industrial Systems Improvement* (Springer Optimization and Its Applications), pp. 315–344. [https://doi.org/10.1007/978-3-031-53092-0_15](https://doi.org/10.1007/978-3-031-53092-0_15)
+
+## Under Review
+
+- **Konyar, E.**, Reisi Gahrooei, M., Paynabar, K. (2025+). *Tensorized Multi-Task Learning for Personalized Modeling of Heterogeneous Individuals with High-Dimensional Data*. Submitted to *INFORMS Journal on Data Science*.  
+
+## In Preparation
+
+Additional manuscripts are in preparation on topics including human-centered AI (expertise modeling with egocentric data), computational phenotyping and survival risk estimation, federated and distributed analytics, and reinforcement learning for multi-sensor systems.
 
 
-Book Chapters
-------
-7. Barry, G., **Konyar, E.**, Harvill, B., Johnstone, C. (2024). A Survey of Advances in Multimodal Federated Learning with Applications. *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, 315-344. [[link](https://link.springer.com/chapter/10.1007/978-3-031-53092-0_15)]
