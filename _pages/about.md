@@ -25,11 +25,13 @@ Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthu
 
 News
 ------
-1. **May 2025**: I received ENBIS Knowledge Fund for the ENBIS-25 conference in Piraeus, Greece.  I will be presenting our work, titled "Data-Driven Personalization in Telemonitoring and Neuroimaging for Diverse Populations".
-2. **December 2024**: I successfully defended my dissertation and earned my Ph.D. in Industrial and Systems Engineering from the University of Florida.
-3. **April 2024**: I received UF Industrial & Systems Engineering Graduate Research Award.
-4. **April 2024**: I received Student Travel Award by NSF for Joint Research Conference (JRC 2024) at University of Waterloo, Canada. I will be presenting a poster presentation, titled "Semi-supervised PARACAC2 Decomposition for Medical Decision Making".
-5. **May 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" has been nominated as a finalist for the Best Paper Competition at the INFORMS Conference on Quality, Statistics, and Reliability (ICQSR). I will be presenting our work in ICQSR in June, 2023, in Raleigh!
-6. **April 2023**: Our work "Federated Generalized Scalar-on-Tensor Regression" has been selected as a finalist in IISE QCRE Best Student Paper Competition. I will be presenting our work in IISE Annual Meeting in May, 2023, in New Orleans!
-7. **June 2021**: Defended my Master's thesis at Bogazici University.
-8. **Jan 2021**: Ranked in top 10 among 247 participants in "Wind power forecasting for the day-ahead energy market” competition by Compagnie Nationale du Rhone (CNR) in Challenge Data. 
+- **May 2025**: Received the ENBIS Knowledge Fund to attend the ENBIS-25 Conference in Piraeus, Greece. I will present *“Data-Driven Personalization in Telemonitoring and Neuroimaging for Diverse Populations.”*  
+- **December 2024**: Successfully defended my dissertation and earned my Ph.D. in Industrial & Systems Engineering from the University of Florida.  
+- **April 2024**: Awarded the UF Industrial & Systems Engineering Graduate Research Award.  
+- **April 2024**: Received an NSF Student Travel Award for the Joint Research Conference (JRC 2024) at the University of Waterloo, Canada. Presented poster *“Semi-supervised PARAFAC2 Decomposition for Medical Decision Making.”*  
+- **May 2023**: *Federated Generalized Scalar-on-Tensor Regression* was nominated as a finalist for the Best Paper Competition at the INFORMS ICQSR Conference in Raleigh, NC.  
+- **April 2023**: *Federated Generalized Scalar-on-Tensor Regression* was selected as a finalist in the IISE QCRE Best Student Paper Competition. Presented at the IISE Annual Meeting in New Orleans, LA.  
+- **March 2023**: Selected to attend the FutureBAProf Workshop at the Tippie College of Business, University of Iowa, with travel support.  
+- **June 2022**: Received NSF Travel and Registration Award for the Quality and Productivity Research Conference (QPRC 2022).  
+- **June 2021**: Defended my Master’s thesis at Boğaziçi University, Istanbul.  
+- **January 2021**: Ranked in the top 10 out of 247 participants in the *“Wind Power Forecasting for the Day-Ahead Energy Market”* challenge organized by Compagnie Nationale du Rhône (CNR).  
