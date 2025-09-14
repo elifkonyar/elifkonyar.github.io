@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Service"
-permalink: /service/
+title: "Professional Activities"
+permalink: /professional-activities/
 author_profile: true
 ---
 
