@@ -21,7 +21,15 @@ Key areas of my research include:
 
 I am always open to collaborative opportunities that push these areas forward and welcome interdisciplinary projects with societal impact. Please feel free to [contact me](mailto:ekonyar3@gatech.edu) if you are interested in working together.
 
-Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthusiast. 
+Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthusiast.
+
+Education
+---------
+- **Ph.D. in Industrial & Systems Engineering**, University of Florida, 2024   
+
+- **M.S. in Industrial Engineering**, Boğaziçi University, 2021  
+
+- **B.S. in Industrial Engineering**, Boğaziçi University, 2018   
 
 News
 ------
