@@ -7,39 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Talks
------
-1. INFORMS Conference on Quality, Statistics, and Reliability Best Paper Competition, Raleigh, NC, 2023.
+## Conference Talks & Invited Presentations
+- **Data-Driven Personalization in Telemonitoring and Neuroimaging for Diverse Populations** — ENBIS-25 Conference, Piraeus, Greece (2025)  
+- **Semi-supervised Tensor Decomposition for Computational Phenotyping Using Electronic Health Records** — INFORMS Annual Meeting, Seattle (2024)  
+- **Robust Generalized Scalar-on-Tensor Regression** — INFORMS Annual Meeting, Phoenix (2023); IISE Annual Meeting, New Orleans (2023)  
+- **Federated Generalized Scalar-on-Tensor Regression** — INFORMS ICQSR (Best Paper Competition), Raleigh (2023); IISE Annual Meeting (Best Student Paper Competition), New Orleans (2023); INFORMS Annual Meeting, Indianapolis (2022)  
+- **Federated Learning and Applications** — Invited Talk, Air Force Institute of Technology (2022, Virtual)  
+- **Meta-learning for Wind Power Forecasting** — National Congress on Operations Research/Industrial Engineering, Istanbul (2021)  
 
-    *Federated Generalized Scalar-on-Tensor Regression.*
-    
-2. IISE Annual Meeting, New Orleans, LA, 2023.
-
-    *Robust Generalized Scalar-on-Tensor Regression.*
-
-3. Quality Control and Reliability Engineering (QCRE) Best Student Paper Competition, IISE Annual Meeting, New Orleans, LA, 2023.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
-    
-4. INFORMS Annual Meeting, Indianapolis, IN, 2022.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
-    
-5. IISE Annual Meeting, Seattle, WA, 2022.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
-
-6. 40th National Congress on Operations Research/Industrial Engineering (Virtual), Istanbul, Turkey, 2021.
-
-    *Aggregation Strategies for Grid-based Numerical Weather Predictions (NWP) to Improve Power Curve Models with Meta-Learning Extension.*
-
-Posters
------
-
-1.  Quality, Statistics, and Reliability (QSR) Poster Competition, INFORMS Annual Meeting, Indianapolis, IN, 2022.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
-
-2.  Quality and Productivity Research Conference (QPRC), Virtual, 2022.
-
-    *Federated Generalized Scalar-on-Tensor Regression.*
+## Poster Presentations
+- **Semi-supervised Tensor Decomposition for Computational Phenotyping** — Joint Research Conference on Quality, Industry, and Technology, Waterloo (2024)  
+- **Temporal Modeling for Disruption Detection in Transportation Networks** — TRB Annual Meeting, Washington, D.C. (2023)  
+- **Federated Generalized Scalar-on-Tensor Regression** — INFORMS Annual Meeting (Poster Competition), Indianapolis (2022); QPRC, Virtual (2022)  
