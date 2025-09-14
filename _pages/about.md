@@ -25,11 +25,11 @@ Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthu
 
 Education
 ---------
-- **Ph.D. in Industrial & Systems Engineering**, University of Florida, 2024   
+- Ph.D. in Industrial & Systems Engineering, University of Florida, 2024   
 
-- **M.S. in Industrial Engineering**, Boğaziçi University, 2021  
+- M.S. in Industrial Engineering, Boğaziçi University, 2021  
 
-- **B.S. in Industrial Engineering**, Boğaziçi University, 2018   
+- B.S. in Industrial Engineering, Boğaziçi University, 2018   
 
 News
 ------
