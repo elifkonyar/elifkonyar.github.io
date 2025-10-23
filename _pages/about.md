@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Carmine and Jean Iannacone Postdoctoral Fellow working with [Dr. Kamran Paynabar](https://scholar.google.com/citations?user=CwMCid0AAAAJ&hl=en&oi=ao) in the School of Industrial and Systems Engineering (ISyE) at Georgia Institute of Technology. I earned my Ph.D. in Industrial & Systems Engineering at the University of Florida under the supervision of [Dr. Mostafa Reisi Gahrooei](https://scholar.google.com/citations?user=GRoULwcAAAAJ&hl=en). 
+I am a Carmine and Jean Iannacone Postdoctoral Fellow working with [Dr. Kamran Paynabar](https://scholar.google.com/citations?user=CwMCid0AAAAJ&hl=en&oi=ao) in the School of Industrial and Systems Engineering (ISyE) at Georgia Institute of Technology. I earned my Ph.D. in Industrial & Systems Engineering at the University of Florida under the supervision of [Dr. Mostafa Reisi Gahrooei](https://scholar.google.com/citations?user=GRoULwcAAAAJ&hl=en). I will be attending the **INFORMS Annual Meeting** and presenting at the Job Market Showcase track. My talk **Adaptive Tensor and Multimodal Learning for Human-Centered Systems** will take place on Monday, October 27, 2025 at 2:45 PM - 4:00 PM (Building A Level 3 A313).
 
 My research lies at the intersection of machine learning, data science, and data-driven decision-making, with a focus on developing interpretable, robust, and privacy-preserving methods for analyzing high-dimensional and multimodal data. A central theme of my work is transforming diverse and irregular data streams into trustworthy insights that support organizational and societal decision-making. I develop tensor-based and federated frameworks for personalized and privacy-preserving modeling, as well as multimodal data fusion techniques for human-centered AI systems. More broadly, I aim to design human-centered and trustworthy analytics that bridge methodological rigor with real-world impact across healthcare, transportation, energy, and immersive technologies.  
 
@@ -22,12 +22,6 @@ Key areas of my research include:
 I am always open to collaborative opportunities that push these areas forward and welcome interdisciplinary projects with societal impact. Please feel free to [contact me](mailto:ekonyar3@gatech.edu) if you are interested in working together.
 
 Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthusiast.
-
-I will be attending the **INFORMS Annual Meeting** and presenting at the following session:
-Track: Job Market Showcase
-Title: **Adaptive Tensor and Multimodal Learning for Human-Centered Systems**
-Time: Monday, October 27, 2025, 2:45 PM - 4:00 PM
-Location: Building A Level 3 A313
 
 Education
 ---------
