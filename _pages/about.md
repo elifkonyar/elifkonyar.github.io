@@ -12,16 +12,22 @@ I am a Carmine and Jean Iannacone Postdoctoral Fellow working with [Dr. Kamran P
 
 My research lies at the intersection of machine learning, data science, and data-driven decision-making, with a focus on developing interpretable, robust, and privacy-preserving methods for analyzing high-dimensional and multimodal data. A central theme of my work is transforming diverse and irregular data streams into trustworthy insights that support organizational and societal decision-making. I develop tensor-based and federated frameworks for personalized and privacy-preserving modeling, as well as multimodal data fusion techniques for human-centered AI systems. More broadly, I aim to design human-centered and trustworthy analytics that bridge methodological rigor with real-world impact across healthcare, transportation, energy, and immersive technologies.  
 
-Key areas of my research include:  
-- **Multimodal Data Fusion for Human-Centered AI and AR/VR Systems** – integrating gaze, head, hand, and physiological signals to model expertise, workload, and behavioral dynamics.  
+Key areas of my research include:    
 - **Computational Phenotyping and Risk Prediction from EHR** – tensor-based models for interpretable patient phenotypes and outcome prediction from irregular and partially labeled data.  
 - **Privacy-Preserving and Federated Analytics for Healthcare and Complex Systems** – frameworks enabling cross-institutional collaboration without sharing raw data, with applications in healthcare, agriculture, and manufacturing.  
+- **Multimodal Data Fusion for Human-Centered AI and Augmented Reality Systems** – integrating gaze, head, hand, and physiological signals to model expertise, workload, and behavioral dynamics.
 - **Personalized Modeling in Telemonitoring and Neuroimaging** – multi-task tensor learning for individualized predictions in Parkinson’s severity monitoring and ADHD characterization.  
 - **Forecasting and Decision Support in Energy and Transportation** – adaptive methods for renewable energy forecasting and resilience-focused monitoring of transportation networks.  
 
 I am always open to collaborative opportunities that push these areas forward and welcome interdisciplinary projects with societal impact. Please feel free to [contact me](mailto:ekonyar3@gatech.edu) if you are interested in working together.
 
 Outside of work, I enjoy biking, running and hiking, and I am a big coffee enthusiast.
+
+I will be attending the **INFORMS Annual Meeting** and presenting at the following session:
+Track: Job Market Showcase
+Title: **Adaptive Tensor and Multimodal Learning for Human-Centered Systems**
+Time: Monday, October 27, 2025, 2:45 PM - 4:00 PM
+Location: Building A Level 3 A313
 
 Education
 ---------
