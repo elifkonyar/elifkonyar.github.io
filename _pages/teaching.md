@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+## Instructor — Georgia Institute of Technology
+- **ISyE 3770 - Statistics and Applications**, Spring 2026 
+
 ## Guest Lecturer — Georgia Institute of Technology
 - **High-dimensional Data Analytics** (3 sessions), Spring 2025  
   Developed and delivered a new module on federated learning for data-rich environments, emphasizing applications to healthcare and organizational analytics.  

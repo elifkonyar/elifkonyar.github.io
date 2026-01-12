@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Conference Talks & Invited Presentations
+- **Adaptive Tensor and Multimodal Learning for Human-Centered Systems** — INFORMS Annual Meeting - Job Market Showcase track, Atlanta (2025)  
 - **Data-Driven Personalization in Telemonitoring and Neuroimaging for Diverse Populations** — ENBIS-25 Conference, Piraeus, Greece (2025)  
 - **Semi-supervised Tensor Decomposition for Computational Phenotyping Using Electronic Health Records** — INFORMS Annual Meeting, Seattle (2024)  
 - **Robust Generalized Scalar-on-Tensor Regression** — INFORMS Annual Meeting, Phoenix (2023); IISE Annual Meeting, New Orleans (2023)  

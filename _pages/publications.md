@@ -30,10 +30,12 @@ author_profile: true
 
 ## Under Review
 
-- **Konyar, E.**, Reisi Gahrooei, M., Paynabar, K. (2025+). *Tensorized Multi-Task Learning for Personalized Modeling of Heterogeneous Individuals with High-Dimensional Data*. Submitted to *INFORMS Journal on Data Science*.  
+8. **Konyar, E.**, Reisi Gahrooei, M., Paynabar, K. (2026+). Tensorized Multi-Task Learning for Personalized Modeling of Heterogeneous Individuals with High-Dimensional Data. Submitted to *INFORMS Journal on Data Science*.  
+
+9. **Konyar, E.**, Yoo, S., Moghaddam, M., Paynabar, K. (2026+). Modeling Expertise in AR-Guided Psychomotor Tasks via Low-Rank Multimodal Representation Learning. Submitted to *IEEE Transactions on Systems, Man and Cybernetics*.  
 
 ## In Preparation
 
-Additional manuscripts are in preparation on topics including human-centered AI (expertise modeling with egocentric data), computational phenotyping and survival risk estimation, federated and distributed analytics, and reinforcement learning for multi-sensor systems.
+Additional manuscripts are in preparation on topics including computational phenotyping and survival risk estimation, federated and distributed analytics, and reinforcement learning for multi-sensor systems.
 
 

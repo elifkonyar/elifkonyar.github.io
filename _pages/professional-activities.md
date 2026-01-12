@@ -22,6 +22,7 @@ author_profile: true
 - European Network for Business and Industrial Statistics (ENBIS)  
 
 ## Professional Service and Outreach
+- Facilitator (4 workshops), *Jumpstart Your Research Potential Program* (for undergraduate students), Georgia Institute of Technology (2026)
 - Judge, *K-12 InVenture Prize State Finals*, Georgia Institute of Technology (2025)  
 - Judge, *Career, Research, Innovation and Development Conference (CRIDC) Poster Competition*, Georgia Institute of Technology (2025)  
 - Student Board Member, *IISE Quality Control and Engineering Division* (2024–2025)  
