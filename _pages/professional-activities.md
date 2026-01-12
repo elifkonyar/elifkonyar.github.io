@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Conference Organizing & Leadership
+- Organizer and Chair, *Advanced High-Dimensional Data Analytics for Interconnected Systems*, INFORMS Annual Meeting, Atlanta, GA (2025) 
 - Organizer and Chair, *Advanced Data Analysis for Interconnected and Distributed Systems*, INFORMS Annual Meeting, Seattle, WA (2024)  
 - Organizer and Chair, *Multimodal Data Analysis for Interconnected and Distributed Systems*, INFORMS Annual Meeting, Phoenix, AZ (2023)  
 - Session Chair, *DAIS-QCRE Joint Session* and *Process Monitoring and Control*, IISE Annual Conference, Seattle, WA (2022)  
