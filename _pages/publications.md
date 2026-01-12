@@ -9,7 +9,7 @@ author_profile: true
 
 ## Refereed Journal Papers (accepted or published)
 
-1. **Konyar, E.**, Paynabar, K. (2025). Discussion on “The Statistical Finite Element Method: A Theoretical Foundation for Digital Twins”. *Quality Engineering*. *(Just accepted)*
+1. **Konyar, E.**, Paynabar, K. (2025). Discussion on “The Statistical Finite Element Method: A Theoretical Foundation for Digital Twins”. *Quality Engineering*. [https://doi.org/10.1080/08982112.2025.2505137s](https://doi.org/10.1080/08982112.2025.2505137)
 
 2. Amini, M., **Konyar, E.**, Reisi Gahrooei, M. (2025). Federated Cooperative Generalized Linear Model for Distributed Multimodal Data Analysis. *IISE Transactions*. [https://doi.org/10.1080/24725854.2025.2511666](https://doi.org/10.1080/24725854.2025.2511666)
 
