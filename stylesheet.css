@@ -153,6 +153,18 @@ ul.compact li {
   margin-bottom: 6px;
 }
 
+.recruiting-box {
+  padding: 18px 20px;
+  border: 1px solid #b9d7f7;
+  border-left: 6px solid #1772d0;
+  border-radius: 12px;
+  background-color: #eef6ff;
+  box-shadow: 0 2px 8px rgba(23, 114, 208, 0.12);
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 .venue-box {
   display: inline-block;
   width: 130px;
