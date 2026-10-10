@@ -154,15 +154,20 @@ ul.compact li {
 }
 
 .recruiting-box {
-  padding: 18px 20px;
-  border: 1px solid #b9d7f7;
-  border-left: 6px solid #1772d0;
-  border-radius: 12px;
-  background-color: #eef6ff;
-  box-shadow: 0 2px 8px rgba(23, 114, 208, 0.12);
+  padding: 20px 28px;
+  border: 1px solid #a9cce8;
+  border-radius: 10px;
+  background-color: #eef6fb;
+  color: #5a6474;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
+  font-size: 18px;
+  line-height: 1.55;
+  text-align: center;
+}
+
+.recruiting-box span,
+.recruiting-box a {
+  color: #1772d0;
 }
 
 .venue-box {
